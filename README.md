@@ -73,8 +73,8 @@ Graphs include:
 
 | Name               | GitHub                             |
 |--------------------|------------------------------------|
-| **Satya Prakash Rout** | [SatyaPrakash252](https://github.com/SatyaPrakash252) |
-| **Likuna Swain**       | [Likuna06](https://github.com/Likuna06)               |
+| **Likuna Swain** | [Likuna06](https://github.com/Likuna06) |
+| **Satya Prakash Rout**       | [SatyaPrakash252](https://github.com/SatyaPrakash252)               |
 
 Together, we developed this project with 💖 and hard work.
 
