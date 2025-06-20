@@ -60,7 +60,7 @@ Graphs include:
 
 3. Download the model  
    ➤ The model (`chest_xray_model.h5`) was removed due to GitHub size limits.  
-   👉 [Click here to download the model](https://drive.google.com/your-link) <!-- Replace with actual link -->
+   👉 [Click here to download the model]([https://drive.google.com/drive/folders/1qf6-zJp5PKFc1lryC893WQ9PHlmGB-yz?usp=drive_link])
 
 4. Run the application  
    ```bash
@@ -79,6 +79,10 @@ Graphs include:
 Together, we developed this project with 💖 and hard work.
 
 ---
+
+## 📝Research Paper
+👉 [Click here to download the Research Paper]([https://drive.google.com/drive/folders/1l1p8FFdqKsQ3gm_pJdhMrRKsND8wrSmX?usp=drive_link])
+
 
 ## 📜 License
 
